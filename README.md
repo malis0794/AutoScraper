@@ -4,7 +4,7 @@ It's compatible with python 3.
 
 - Install latest version from git repository using pip:
 ```bash
-$ pip install git+https://github.com/alirezamika/autoscraper.git
+$ pip install git+https://github.com/malis0794/autoscraper.git
 ```
 
 - Install from PyPI:
